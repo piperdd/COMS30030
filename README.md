@@ -56,7 +56,11 @@ Week 8, Thursday: No lecture
 ## Teams:
 * The unit is on Teams at [[COMS30030: Image processing & Computer Vision]]().  You should have access already through the "Teams" panel.  If not, please get in touch with the COMS Student Enquiries Mailbox at coms-student-enquiries@bristol.ac.uk. Please make sure you set NOTIFICATIONS to ON for this channel.
 
-You should use the Teams channel for raising queries on any aspects of the COMS30030 unit - such queries will not normally be answered via email or via personal Teams messages. Please do not get upset if your issue is not answered by email or Teams when sent on a one-to-one basis. Post your query on the unit's Teams channel for the benefit of others who may have the same query.
+* You should use the Teams channel for raising queries on any aspects of the COMS30030 unit - such queries will not normally be answered via email or via personal Teams messages. Please do not get upset if your issue is not answered by email or Teams when sent on a one-to-one basis. Post your query on the unit's Teams channel for the benefit of others who may have the same query.
+
+---
+
+## MAJOR option
 
 <details>
 <summary> Major option COMS30087 materials</summary>
@@ -74,6 +78,8 @@ TAs:
 
 ---
 
+## MINOR option
+
 <details>
 <summary> Minor option COMS30081 materials</summary>
 
@@ -84,7 +90,9 @@ TAs:
 
 ---
 
-## Lecture recordings:
-All lecture recordings eventually appear on Blackboard a few hours after the event. Click on Re/Play on the left menu bar on the BB course webpage to find them.
 
 ## Weekly Unit materials
+
+---
+## Lecture recordings:
+All lecture recordings eventually appear on Blackboard a few hours after the event. Click on Re/Play on the left menu bar on the BB course webpage to find them.
