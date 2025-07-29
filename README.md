@@ -1,4 +1,4 @@
-## Image processing and Computer Vision COMS30030 (TB1) 25-26
+## COMS30030: Image processing and Computer Vision  (TB1) 25-26
 
 
 ## Staff
