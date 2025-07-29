@@ -16,7 +16,7 @@ All lecture recordings eventually appear on Blackboard a few hours after the eve
 
 ## Labs:
 
-
+TAs: 
 
 
 ## Teams:
