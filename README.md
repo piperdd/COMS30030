@@ -3,8 +3,9 @@
 
 ## Staff
 
-- [Majid Mirmehdi](http://people.cs.bris.ac.uk/~majid/) [m.mirmehdi@bristol.ac.uk]  
-- [Andrew Calway](https://amachim.blogs.bristol.ac.uk/) [a.calway@bristol.ac.uk] (unit director)
+- [Andrew Calway](http://people.cs.bris.ac.uk/~andrew/) [a.calway@bristol.ac.uk] (unit director)
+- [Majid Mirmehdi](https://majidmirmehdi.github.io/) [m.mirmehdi@bristol.ac.uk]  
+
 
 
 ## Schedule:
