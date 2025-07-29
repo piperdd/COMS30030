@@ -1,5 +1,21 @@
 ## COMS30030: Image Processing and Computer Vision  (TB1) 25-26
 
+<details>
+
+<summary> Introduction to the unit</summary>
+
+## Introduction
+
+This is the teaching unit for the 3rd year CS option Image Processing and Computer Vision. The unit covers all the content needed to take the minor option as part of COMS30081 Topics in CS and the major option COMS30087. There is a separate page for COMS30087 containing all the content needed for the practical laboratory sessions and coursework.
+
+Broadly speaking, Image Processing (IP) refers to techniques that transform images into other images, whilst Computer Vision (CV) concerns extracting information about the scene captured in an image. Examples of IP include filtering, spatial transformation, enhancement, compression, denoising and restoration, and of CV, include detection and recognition of objects, activities, people, places, etc, extraction of 3-D structure and motion, visual navigation and general scene understanding. However, there is considerable overlap between the two areas and thus a strict definition neither exists nor is especially useful, e.g. some techniques can be viewed as either IP or CV and CV often uses IP techniques as a starting point.
+
+Both the minor and major options provide an introduction to both topics, with the major option providing additional practical experience of converting theory into practice. The focus is on covering the fundamental principles and ideas and their use in example techniques. The latter includes edge detection, filtering, segmentation, object detection, stereo and motion estimation. The content is divided into two parts, the first covering techniques applied to still images (Majid) and the second covering techniques applied to multiple images and video (Andrew).
+
+Finally, a word about deep learning. It is probably fair to say that both IP and CV have been changed dramatically by the advent of deep learning techniques, which has revolutionised and facilitated great strides in both topics. For example, the vast majority of papers at the major conferences describing state of the art techniques will be based on deep learning. However, it is also true to say that to contribute to or make use of this work requires a good understanding of the fundamentals that are covered in this unit. With this, you will be well prepared to take 4th year units in deep learning that cover techniques and applications in IP and CV, i.e. COMSM0045 Applied Deep Learning and COMSM0159 Advanced Visual AI.
+
+</details>
+
 
 ## Staff
 
@@ -16,7 +32,7 @@ All lecture recordings eventually appear on Blackboard a few hours after the eve
 
 ## Labs:
 
-TAs: 
+TAs:
 
 
 ## Teams:
@@ -30,5 +46,3 @@ You should use the Teams channel for raising queries on any aspects of the COMS3
 ---
 
 ## Weekly Lecture materials
-
- 
