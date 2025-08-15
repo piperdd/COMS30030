@@ -91,7 +91,7 @@ TAs:
 ---
 
 
-## Weekly Unit materials
+## Weekly unit aterials
 
 ---
 ## Lecture recordings:
