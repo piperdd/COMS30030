@@ -63,13 +63,14 @@ Note that the laboratory sessions for the major option COMS30087 are timetabled 
 
 
 ## Labs:
-- Week 1 - [[Introduction and Mandrill Challenge]](https://github.com/cs-uob/COMS30030/tree/main/Lab1-Intro-MandrillChallenge)
+- Week 1 - [Introduction and Mandrill Challenge](https://github.com/cs-uob/COMS30030/tree/main/Lab1-Intro-MandrillChallenge)
 - Week 2 -
 - Week 3 -
 - Week 4 -
 - Week 5 -
 - Week 7 -
 - Week 8 -
+
 TAs:
 
 </details>
