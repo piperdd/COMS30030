@@ -30,25 +30,20 @@ Lectures slides and related material can be found under Weekly Unit Materials be
 ## Schedule:
 TO BE UPDATED
 
-The unit consists of two lectures per week in weeks 1-5 and 7-8 (week 6 is reading week):
+The unit consists of two lectures per week in weeks 1-5 and 7-8 (Week 6 is reading week):
 
-    Monday 2-3, Queen’s Building 1.15 SLT
-    Thursday 11-12, Ada Lovelace Building SM1
+    Monday 2-3, PHYS BLDG G12 MOTT
+    Thursday 11-12, FRY BLDG LG.02
 
 The exception is week 8, in which there will only be one lecture on the Monday.
 
 The lecture schedule is as follows:
 
 Weeks 1-3: Majid (6)
-
 Week 4, Monday: Majid (1)
-
 Week 4, Thursday: Andrew (1)
-
 Weeks 5 and 7: Andrew (4)
-
 Week 8, Monday: Andrew (1)
-
 Week 8, Thursday: No lecture
 
 
@@ -67,7 +62,7 @@ Week 8, Thursday: No lecture
 
 TO BE UPDATED
 
-Note that the laboratory sessions for the major option COMS30087 are timetabled to take place in weeks 1-5 and 7-8 on Thursdays at 9-11 in Queens Building 1.80 - refer to the COMS30087 BlackBoard page for details and possible variations. The major option assignment will then be done during weeks 9-11.
+Note that the laboratory sessions for the major option COMS30087 are timetabled to take place in weeks 1-5 and 7-8 on Thursdays at 15:00-17:00 in Queens Building 1.80. The major option assignment will then be done during weeks 9-11.
 
 
 ## Labs:
