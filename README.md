@@ -28,7 +28,6 @@ Lectures slides and related material can be found under Weekly Unit Materials be
 
 
 ## Schedule:
-TO BE UPDATED
 
 The unit consists of two lectures per week in weeks 1-5 and 7-8 (Week 6 is reading week):
 
