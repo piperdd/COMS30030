@@ -59,8 +59,6 @@ The lecture schedule is as follows:
 <details>
 <summary> Major option COMS30087 materials</summary>
 
-TO BE UPDATED
-
 Note that the laboratory sessions for the major option COMS30087 are timetabled to take place in weeks 1-5 and 7-8 on Thursdays at 15:00-17:00 in Queens Building 1.80. The major option assignment will then be done during weeks 9-11.
 
 
