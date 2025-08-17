@@ -39,12 +39,12 @@ The exception is week 8, in which there will only be one lecture on the Monday.
 
 The lecture schedule is as follows:
 
-Weeks 1-3: Majid (6)
-Week 4, Monday: Majid (1)
-Week 4, Thursday: Andrew (1)
-Weeks 5 and 7: Andrew (4)
-Week 8, Monday: Andrew (1)
-Week 8, Thursday: No lecture
+    Weeks 1-3: Majid (6)
+    Week 4, Monday: Majid (1)
+    Week 4, Thursday: Andrew (1)
+    Weeks 5 and 7: Andrew (4)
+    Week 8, Monday: Andrew (1)
+    Week 8, Thursday: No lecture
 
 
 
