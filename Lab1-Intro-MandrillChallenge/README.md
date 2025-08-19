@@ -30,7 +30,7 @@
 Study `hello.py` and run it using `python hello.py`.
 <details>
     <summary>Hint</summary>
-<img src="https://github.com/UoB-CS-IPCV/Lab1-intro-mandrill-challenge/blob/main/hint/helloOpenCV.png" height=200>
+<img src="https://github.com/cs-uob/COMS30030/tree/main/Lab1-Intro-MandrillChallenge/hint/helloOpenCV.png" height=200>
 </details>
 
 ## Task 2: Load, display, create, draw and save the image
@@ -40,7 +40,7 @@ Try to understand pixel representation in the image
 - `pixels.py` to access and set pixel values
 <details>
     <summary>Hint</summary>
-<img src="https://github.com/UoB-CS-IPCV/Lab1-intro-mandrill-challenge/blob/main/hint/draw.png" height=200> <img src="https://github.com/UoB-CS-IPCV/Lab1-intro-mandrill-challenge/blob/main/hint/pixels.png" height=200>
+<img src="https://github.com/cs-uob/COMS30030/tree/main/Lab1-Intro-MandrillChallenge/hint/draw.png" height=200> <img src="https://github.com/cs-uob/COMS30030/tree/main/Lab1-Intro-MandrillChallenge/hint/pixels.png" height=200>
 </details>
 
 # Pixel Manipulation and Thresholding
@@ -75,7 +75,7 @@ Some images cannot be fully reconstructed.
 
 - Original mandrill `mandrillRGB.jpg`
 
-<img src="https://github.com/UoB-CS-IPCV/Lab1-intro-mandrill-challenge/blob/main/mandrillRGB.jpg" height=200>
+<img src="https://github.com/cs-uob/COMS30030/tree/main/Lab1-Intro-MandrillChallenge/mandrillRGB.jpg" height=200>
 
 - Corrupted images, `mandrill0.jpg`, `mandrill1.jpg`, `mandrill2.jpg` and `mandrill3.jpg`
 
