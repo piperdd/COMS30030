@@ -3,6 +3,8 @@
 > We run our labs with [Python 3.6+](https://www.python.org/downloads/).
 > For Windows, you might want to use [Conda](https://www.anaconda.com/products/distribution).
 
+> You can also follow the instructions below using [the lab sheet](https://github.com/cs-uob/COMS30030/tree/main/Lab1-Intro-MandrillChallenge/Labsheet.pdf)
+
 ## What is OpenCV?
 - OpenCV is a library framework for developing computer vision solutions.
 - It is widely used in industry and research.
