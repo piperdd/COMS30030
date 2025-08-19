@@ -1,10 +1,10 @@
 # Lab 1: Introduction to OpenCV and the Mandrill Challenge
 
 > We run our labs with [Python 3.6+](https://www.python.org/downloads/).
-> For Windows, you might want to use [Conda](https://www.anaconda.com/products/distribution). 
+> For Windows, you might want to use [Conda](https://www.anaconda.com/products/distribution).
 
 ## What is OpenCV?
-- OpenCV is a library framework for developing computer vision solutions. 
+- OpenCV is a library framework for developing computer vision solutions.
 - It is widely used in industry and research.
 - It is (mainly) free for both academic and commercial use.
 - It has C++, C, Python and Java interfaces and supports Linux, Windows, Mac OS, iOS and Android.
@@ -23,14 +23,8 @@
 5. Install OpenCV packages: `$ pip install numpy opencv-python`, or `conda install numpy` then `conda install -c menpo opencv`
 6. To get out from the environment (when you finish your work): `$ deactivate`, or `conda deactivate`
 
-## Using the lab sheet
 
-There are two ways to use the lab sheet, you can either:
-
-- [create a new repo from this template](https://github.com/UoB-CS-IPCV/Lab1-intro-mandrill-challenge/generate) - **this is the recommended way**
-- download a [zip file](https://github.com/UoB-CS-IPCV/Lab1-intro-mandrill-challenge/archive/master.zip)
-
-## Task 1: HelloOpenCV program 
+## Task 1: HelloOpenCV program
 Study `hello.py` and run it using `python hello.py`.
 <details>
     <summary>Hint</summary>
@@ -59,7 +53,7 @@ Sample answers are available at `thr.py` if you are stuck.
 </details>
 
 ## Task 4: Thresholding Colour Images
-- Whilst in greyscale images the brightness of a pixel is usually represented as a single byte in 2D array, colour images use three bytes to store information for one pixel, become 3D array. Bytes represent the BLUE, GREEN and RED channel in this order. 
+- Whilst in greyscale images the brightness of a pixel is usually represented as a single byte in 2D array, colour images use three bytes to store information for one pixel, become 3D array. Bytes represent the BLUE, GREEN and RED channel in this order.
 - Now, try to implement thresholding of the red, green and/or blue channels to highlight facial components in mandrillRGB.jpg, which now contains colour information.
 - Also check the OpenCV function `inRange`.
 <details>
@@ -79,7 +73,7 @@ Some images cannot be fully reconstructed.
 
 - Original mandrill `mandrillRGB.jpg`
 
-<img src="https://github.com/UoB-CS-IPCV/Lab1-intro-mandrill-challenge/blob/main/mandrillRGB.jpg" height=200> 
+<img src="https://github.com/UoB-CS-IPCV/Lab1-intro-mandrill-challenge/blob/main/mandrillRGB.jpg" height=200>
 
 - Corrupted images, `mandrill0.jpg`, `mandrill1.jpg`, `mandrill2.jpg` and `mandrill3.jpg`
 
@@ -88,4 +82,4 @@ Some images cannot be fully reconstructed.
 ## [OPTIONAL] Task 6: Too dark!
 You went out to take a photo at night, but the photo turned out too dark! Can you write one line of code to enhance the brightness of `darkBristol.png` to make it look like `brightBristol.png`?
 
-<img src="https://github.com/UoB-CS-IPCV/Lab1-intro-mandrill-challenge/blob/main/darkBristol.png" height=250>  ⇨ ⇨ ⇨  <img src="https://github.com/UoB-CS-IPCV/Lab1-intro-mandrill-challenge/blob/main/brightBristol.png" height=250> 
+<img src="https://github.com/UoB-CS-IPCV/Lab1-intro-mandrill-challenge/blob/main/darkBristol.png" height=250>  ⇨ ⇨ ⇨  <img src="https://github.com/UoB-CS-IPCV/Lab1-intro-mandrill-challenge/blob/main/brightBristol.png" height=250>
