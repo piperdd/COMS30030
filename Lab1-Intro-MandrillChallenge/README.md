@@ -76,7 +76,8 @@ Some images cannot be fully reconstructed.
 - Original mandrill `mandrillRGB.jpg`
 
 <img src="https://github.com/cs-uob/COMS30030/tree/main/Lab1-Intro-MandrillChallenge/mandrillRGB.jpg" height=600>
-![mandrillRGB.png](https://github.com/cs-uob/COMS30030/tree/main/Lab1-Intro-MandrillChallenge/mandrillRGB.jpg)
+[mandrillRGB.png](https://github.com/cs-uob/COMS30030/tree/main/Lab1-Intro-MandrillChallenge/mandrillRGB.jpg)
+[2mandrillRGB.png](mandrillRGB.jpg)
 
 
 - Corrupted images, `mandrill0.jpg`, `mandrill1.jpg`, `mandrill2.jpg` and `mandrill3.jpg`
