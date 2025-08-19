@@ -76,7 +76,9 @@ Some images cannot be fully reconstructed.
 - Original mandrill `mandrillRGB.jpg`
 
 <img src="https://github.com/cs-uob/COMS30030/tree/main/Lab1-Intro-MandrillChallenge/mandrillRGB.jpg" height=600>
+
 [mandrillRGB.png](https://github.com/cs-uob/COMS30030/tree/main/Lab1-Intro-MandrillChallenge/mandrillRGB.jpg)
+
 [2mandrillRGB.png](mandrillRGB.jpg)
 
 
