@@ -4,6 +4,7 @@
 > For Windows, you might want to use [Conda](https://www.anaconda.com/products/distribution).
 
 > You can also follow the instructions below using [the lab sheet](https://github.com/cs-uob/COMS30030/tree/main/Lab1-Intro-MandrillChallenge/Labsheet.pdf)
+> Example code and images referred to in the instructions are in the `python` and `images` folders, respectively. 
 
 ## What is OpenCV?
 - OpenCV is a library framework for developing computer vision solutions.
@@ -79,9 +80,9 @@ Some images cannot be fully reconstructed.
 
 - Corrupted images, `mandrill0.jpg`, `mandrill1.jpg`, `mandrill2.jpg` and `mandrill3.jpg`
 
-<img src="images/mandrill0.jpg" height=200> <img src="https://github.com/UoB-CS-IPCV/Lab1-intro-mandrill-challenge/blob/main/mandrill1.jpg" height=200> <img src="https://github.com/UoB-CS-IPCV/Lab1-intro-mandrill-challenge/blob/main/mandrill2.jpg" height=200> <img src="https://github.com/UoB-CS-IPCV/Lab1-intro-mandrill-challenge/blob/main/mandrill3.jpg" height=200>
+<img src="images/mandrill0.jpg" height=200> <img src="images/mandrill1.jpg" height=200> <img src="images/mandrill2.jpg" height=200> <img src="images/mandrill3.jpg" height=200>
 
 ## [OPTIONAL] Task 6: Too dark!
 You went out to take a photo at night, but the photo turned out too dark! Can you write one line of code to enhance the brightness of `darkBristol.png` to make it look like `brightBristol.png`?
 
-<img src="https://github.com/UoB-CS-IPCV/Lab1-intro-mandrill-challenge/blob/main/darkBristol.png" height=250>  ⇨ ⇨ ⇨  <img src="https://github.com/UoB-CS-IPCV/Lab1-intro-mandrill-challenge/blob/main/brightBristol.png" height=250>
+<img src="images/darkBristol.png" height=250>  ⇨ ⇨ ⇨  <img src="images/brightBristol.png" height=250>
