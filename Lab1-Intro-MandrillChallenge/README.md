@@ -30,7 +30,7 @@
 Study `hello.py` and run it using `python hello.py`.
 <details>
     <summary>Hint</summary>
-<img src="https://github.com/cs-uob/COMS30030/tree/main/Lab1-Intro-MandrillChallenge/hint/helloOpenCV.png" height=200>
+<img src="images/helloOpenCV.png" height=200>
 </details>
 
 ## Task 2: Load, display, create, draw and save the image
@@ -40,7 +40,7 @@ Try to understand pixel representation in the image
 - `pixels.py` to access and set pixel values
 <details>
     <summary>Hint</summary>
-<img src="https://github.com/cs-uob/COMS30030/tree/main/Lab1-Intro-MandrillChallenge/hint/draw.png" height=200> <img src="https://github.com/cs-uob/COMS30030/tree/main/Lab1-Intro-MandrillChallenge/hint/pixels.png" height=200>
+<img src="images/draw.png" height=200> <img src="images/pixels.png" height=200>
 </details>
 
 # Pixel Manipulation and Thresholding
@@ -75,16 +75,11 @@ Some images cannot be fully reconstructed.
 
 - Original mandrill `mandrillRGB.jpg`
 
-<img src="https://github.com/cs-uob/COMS30030/tree/main/Lab1-Intro-MandrillChallenge/mandrillRGB.jpg" height=600>
-
-[mandrillRGB.png](https://github.com/cs-uob/COMS30030/tree/main/Lab1-Intro-MandrillChallenge/mandrillRGB.jpg)
-
-[2mandrillRGB.png](mandrillRGB.jpg)
-<img src="mandrillRGB.jpg" height=400>
+<img src="images/mandrillRGB.jpg" height=200>
 
 - Corrupted images, `mandrill0.jpg`, `mandrill1.jpg`, `mandrill2.jpg` and `mandrill3.jpg`
 
-<img src="https://github.com/UoB-CS-IPCV/Lab1-intro-mandrill-challenge/blob/main/mandrill0.jpg" height=200> <img src="https://github.com/UoB-CS-IPCV/Lab1-intro-mandrill-challenge/blob/main/mandrill1.jpg" height=200> <img src="https://github.com/UoB-CS-IPCV/Lab1-intro-mandrill-challenge/blob/main/mandrill2.jpg" height=200> <img src="https://github.com/UoB-CS-IPCV/Lab1-intro-mandrill-challenge/blob/main/mandrill3.jpg" height=200>
+<img src="images/mandrill0.jpg" height=200> <img src="https://github.com/UoB-CS-IPCV/Lab1-intro-mandrill-challenge/blob/main/mandrill1.jpg" height=200> <img src="https://github.com/UoB-CS-IPCV/Lab1-intro-mandrill-challenge/blob/main/mandrill2.jpg" height=200> <img src="https://github.com/UoB-CS-IPCV/Lab1-intro-mandrill-challenge/blob/main/mandrill3.jpg" height=200>
 
 ## [OPTIONAL] Task 6: Too dark!
 You went out to take a photo at night, but the photo turned out too dark! Can you write one line of code to enhance the brightness of `darkBristol.png` to make it look like `brightBristol.png`?
