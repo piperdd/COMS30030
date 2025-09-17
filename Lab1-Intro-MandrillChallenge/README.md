@@ -3,7 +3,8 @@
 > We run our labs with [Python 3.6+](https://www.python.org/downloads/).
 > For Windows, you might want to use [Conda](https://www.anaconda.com/products/distribution).
 
-> You can also follow the instructions below using [the lab sheet](https://github.com/cs-uob/COMS30030/tree/main/Lab1-Intro-MandrillChallenge/Labsheet.pdf)
+> You can also follow the instructions below using [the lab sheet](https://github.com/cs-uob/COMS30030/tree/main/Lab1-Intro-MandrillChallenge/Labsheet.pdf).
+> 
 > Example code and images referred to in the instructions are in the `python` and `images` folders, respectively. 
 
 ## What is OpenCV?
