@@ -1,8 +1,5 @@
 ## COMS30030: Image Processing and Computer Vision  (TB1) 25-26
 
-<details>
-<summary> Introduction to the unit</summary>
-
 ## Introduction
 
 This is the teaching unit for the 3rd year CS option Image Processing and Computer Vision. The unit covers all the content needed to take the minor option as part of COMS30081 Topics in CS and the major option COMS30087.
@@ -16,9 +13,6 @@ Finally, a word about deep learning. It is probably fair to say that both IP and
 ## Unit Materials and Textbooks
 
 Lectures slides and related material can be found under Weekly Unit Materials below.  The material is not taught strictly along the lines of a textbook. However, often it is useful to read around a topic to get a different perspective and the many textbooks on image processing and computer vision can be helpful for this. It is also worth looking on the web for material, but you should always refer back to the content covered in lectures as your definitive source. You are also encouraged to ask questions about any aspects you do not understand or want clarifying - either ask at the end of a lecture or message on the unit's Team page. Your question is most likely something others may ask too and by putting it on Teams, our response will potentially benefit many others.
-
-</details>
-
 
 ## Staff
 
