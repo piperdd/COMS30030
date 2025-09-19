@@ -50,8 +50,7 @@ The lecture schedule is as follows:
 
 ## MAJOR option
 
-<details>
-<summary> Major option COMS30087 materials</summary>
+Major option COMS30087 materials
 
 Note that the laboratory sessions for the major option COMS30087 are timetabled to take place in weeks 1-5 and 7-8 on Thursdays at 15:00-17:00 in Queens Building 1.80. The major option assignment will then be done during weeks 9-11.
 
@@ -67,25 +66,17 @@ Note that the laboratory sessions for the major option COMS30087 are timetabled 
 
 TAs:
 
-</details>
 
 ---
 
 ## MINOR option
 
-<details>
-<summary> Minor option COMS30081 materials</summary>
+Minor option COMS30081 materials</summary>
 
 ## Exam info:
 * The exam is closed-book (so no additional materials are allowed).
 
-</details>
-
----
-
-
 ## Weekly Unit Materials
 
----
 ## Lecture recordings:
 All lecture recordings eventually appear on Blackboard a few hours after the event. Click on Re/Play on the left menu bar on the BB course webpage to find them.
