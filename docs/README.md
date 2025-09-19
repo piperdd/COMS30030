@@ -42,7 +42,7 @@ The lecture schedule is as follows:
 
 
 ## Teams:
-* The unit is on Teams at [[COMS30030: Image processing & Computer Vision]]().  You should have access already through the "Teams" panel.  If not, please get in touch with the COMS Student Enquiries Mailbox at coms-student-enquiries@bristol.ac.uk. Please make sure you set NOTIFICATIONS to ON for this channel.
+* The unit is on [Teams](https://teams.microsoft.com/l/team/19%3An35qiHInXDHOy9VFZwldDwchJNSb7BcvzpLTNPWIX6A1%40thread.tacv2/conversations?groupId=5ebc2a58-b6aa-4600-8422-b28912b2c07b&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b).  You should have access already through the "Teams" panel.  If not, please get in touch with the COMS Student Enquiries Mailbox at coms-student-enquiries@bristol.ac.uk. Please make sure you set NOTIFICATIONS to ON for this channel.
 
 * You should use the Teams channel for raising queries on any aspects of the COMS30030 unit - such queries will not normally be answered via email or via personal Teams messages. Please do not get upset if your issue is not answered by email or Teams when sent on a one-to-one basis. Post your query on the unit's Teams channel for the benefit of others who may have the same query.
 
@@ -50,8 +50,7 @@ The lecture schedule is as follows:
 
 ## MAJOR option
 
-<details>
-<summary> Major option COMS30087 materials</summary>
+Major option COMS30087 materials
 
 Note that the laboratory sessions for the major option COMS30087 are timetabled to take place in weeks 1-5 and 7-8 on Thursdays at 15:00-17:00 in Queens Building 1.80. The major option assignment will then be done during weeks 9-11.
 
@@ -67,25 +66,17 @@ Note that the laboratory sessions for the major option COMS30087 are timetabled 
 
 TAs:
 
-</details>
 
 ---
 
 ## MINOR option
 
-<details>
-<summary> Minor option COMS30081 materials</summary>
+Minor option COMS30081 materials</summary>
 
 ## Exam info:
 * The exam is closed-book (so no additional materials are allowed).
 
-</details>
-
----
-
-
 ## Weekly Unit Materials
 
----
 ## Lecture recordings:
 All lecture recordings eventually appear on Blackboard a few hours after the event. Click on Re/Play on the left menu bar on the BB course webpage to find them.
