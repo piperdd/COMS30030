@@ -85,11 +85,11 @@ All lecture recordings eventually appear on Blackboard a few hours after the eve
 ## Weekly Unit Materials
 
 #### Week 1: 22/09/2025
-| Lecture, etc. |  Slides, etc. |
-| ------- | ------ |
-| MM01. Introduction, Image Acquisition | [pdf](Slides/Intro-Acquisition.pdf) |
-| MM02. Image Filtering | [[pdf]] |
-| Problem Sheet 01 (Self/Group study) | [pdf](ProblemSheets/ProblemSheet-IPCV-MM01.pdf) |
-| Problem Sheet 01 (Solutions) | [[pdf]]  |
+  | Lecture, etc. |  Slides, etc. |
+  | ------- | ------ |
+  | MM01. Introduction, Image Acquisition | [pdf](Slides/Intro-Acquisition.pdf) |
+  | MM02. Image Filtering | [[pdf]] |
+  | Problem Sheet 01 (Self/Group study) | [pdf](ProblemSheets/ProblemSheet-IPCV-MM01.pdf) |
+  | Problem Sheet 01 (Solutions) | [[pdf]]  |
 
 #### Week 2: 29/09/2025
