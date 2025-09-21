@@ -62,6 +62,7 @@ The schedule for the laboratory sessions is:
 
 ## Labs:
 - Week 1 - OpenCV Intro and Image Representation [Introduction and Mandrill Challenge](https://github.com/cs-uob/COMS30030/tree/main/Lab1-Intro-MandrillChallenge)
+
     - Week 2 - Convolution and Image Filtering
     - Week 3 - Edge and Hough Transform
     - Week 4 - Real-time Object Detection
