@@ -75,7 +75,7 @@ The lab sessions are designed to prepare you for undertaking the assignment in w
 Minor option COMS30081 materials
 
 ## Exam info:
-* The exam is closed-book (so no additional materials are allowed).
+* The exam is closed-book (so no additional materials are allowed). 
 
 ---
 
