@@ -79,6 +79,8 @@ Minor option COMS30081 materials</summary>
 ## Exam info:
 * The exam is closed-book (so no additional materials are allowed).
 
+---
+
 ## Weekly Unit Materials
 
 ## Lecture recordings:
