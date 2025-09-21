@@ -78,7 +78,7 @@ Minor option COMS30081 materials</summary>
 * The exam is closed-book (so no additional materials are allowed).
 
 ---
-
+ 
 ## Lecture recordings:
 All lecture recordings eventually appear on Blackboard a few hours after the event. Click on Re/Play on the left menu bar on the BB course webpage to find them.
 
