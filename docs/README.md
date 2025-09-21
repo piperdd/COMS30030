@@ -68,8 +68,6 @@ The lab sessions are designed to prepare you for undertaking the assignment in w
 
 
 
-
-
 ---
 
 ## MINOR option
