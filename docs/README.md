@@ -54,17 +54,22 @@ Major option COMS30087 materials
 
 Note that the laboratory sessions for the major option COMS30087 are timetabled to take place in weeks 1-5 and 7-8 on Thursdays at 15:00-17:00 in Queens Building 1.80. The major option assignment will then be done during weeks 9-11.
 
+There are six 2-hour laboratory sessions. Each consists of a task sheet which you are expected to complete during the session. help will be available in the form of 6 post-graduate Teaching Assistants (TAs), all of whom are completing a PhD in image processing or computer vision.
+
+The lab sessions are designed to prepare you for undertaking the assignment in weeks 9-11. You are therefore expected to attend every session, complete the tasks on the lab sheet and make full use of the help available. Solutions to lab sheets will be released following each session (when applicable). The TAs have bveen instructed to be available at all times during each session to offer help and advice. However it is important that before asking for help you make a serious attempt to understand and complete a task. If you need help, then try to ask specific questions, whether that relates to the theory behind the task or how to implement something. If you find that you are not getting sufficient help from the TAs, then please contact the unit director.
+
+The schedule for the laboratory sessions is:
 
 ## Labs:
-- Week 1 - [Introduction and Mandrill Challenge](https://github.com/cs-uob/COMS30030/tree/main/Lab1-Intro-MandrillChallenge)
-- Week 2 -
-- Week 3 -
-- Week 4 -
-- Week 5 -
-- Week 7 -
-- Week 8 -
+    - Week 1 - OpenCV Intro and Image Representation [Introduction and Mandrill Challenge](https://github.com/cs-uob/COMS30030/tree/main/Lab1-Intro-MandrillChallenge)
+    - Week 2 - Convolution and Image Filtering
+    - Week 3 - Edge and Hough Transform
+    - Week 4 - Real-time Object Detection
+    - Week 5 - Stereo I
+    - Week 7 - Stereo II
 
-TAs:
+
+
 
 
 ---
