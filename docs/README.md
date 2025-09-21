@@ -75,7 +75,7 @@ The lab sessions are designed to prepare you for undertaking the assignment in w
 Minor option COMS30081 materials
 
 ## Exam info:
-* The exam is closed-book (so no additional materials are allowed). 
+* The exam is closed-book (so no additional materials are allowed).
 
 ---
 
@@ -88,8 +88,8 @@ All lecture recordings eventually appear on Blackboard a few hours after the eve
 
   | ------- | ------- |     
   | MM01. Introduction, Image Acquisition | [pdf](tree/main/Slides/Intro-Acquisition.pdf) |
-  | MM02. Image Filtering | [[pdf]] |
+  | MM02. Image Filtering | [pdf] |
   | Problem Sheet 01 (Self/Group study) | [pdf](https://github.com/cs-uob/COMS30030/tree/main/ProblemSheets/ProblemSheet-IPCV-MM01.pdf) |
-  | Problem Sheet 01 (Solutions) | [[pdf]]  |
+  | Problem Sheet 01 (Solutions) | [pdf]  |
 
 #### Week 2: 29/09/2025
