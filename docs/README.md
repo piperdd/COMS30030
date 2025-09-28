@@ -62,7 +62,7 @@ The lab sessions are designed to prepare you for undertaking the assignment in w
 - Week 1 - OpenCV Intro and Image Representation - [Introduction and Mandrill Challenge](https://github.com/cs-uob/COMS30030/tree/main/Lab1-Intro-MandrillChallenge)
 - Week 2 - Convolution and Image Filtering -  [Numberplate Challenge](https://github.com/cs-uob/COMS30030/tree/main/Lab2-Number-Plate-Challenge)
 - Week 3 - Edge and Hough Transform -
-- Week 4 - Real-time Object Detection - 
+- Week 4 - Real-time Object Detection -
 - Week 5 - Stereo I
 - Week 7 - Stereo II
 
@@ -95,6 +95,6 @@ All lecture recordings eventually appear on Blackboard a few hours after the eve
 #### Week 2: 29/09/2025
 
   | ------- | ------- |     
-  | MM03. Fourier Analysis| [pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/Majid03-Fourier.pdf) |
+  | MM03. Fourier Analysis| [pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/MM03-Fourier.pdf) |
   | Problem Sheet 02 (Self/Group study) | [pdf](https://github.com/cs-uob/COMS30030/tree/main/ProblemSheets/ProblemSheet-IPCV-MM02.pdf) |
   | Problem Sheet 02 (Solutions) | [pdf]  |
