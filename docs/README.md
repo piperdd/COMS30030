@@ -59,10 +59,10 @@ There are six 2-hour laboratory sessions. Each consists of a task sheet which yo
 The lab sessions are designed to prepare you for undertaking the assignment in weeks 9-11. You are therefore expected to attend every session, complete the tasks on the lab sheet and make full use of the help available. Solutions to lab sheets will be released following each session (when applicable). The TAs have bveen instructed to be available at all times during each session to offer help and advice. However, it is important that before asking for help you make a serious attempt to understand and complete a task. If you need help, then try to ask specific questions, whether that relates to the theory behind the task or how to implement something. If you find that you are not getting sufficient help from the TAs, then please contact the unit director.
 
 ## Labs:
-- Week 1 - OpenCV Intro and Image Representation [Introduction and Mandrill Challenge](https://github.com/cs-uob/COMS30030/tree/main/Lab1-Intro-MandrillChallenge)
-- Week 2 - Convolution and Image Filtering [Numberplate Challenge](https://github.com/cs-uob/COMS30030/tree/main/Lab2-Number-Plate-Challenge)
-- Week 3 - Edge and Hough Transform
-- Week 4 - Real-time Object Detection
+- Week 1 - OpenCV Intro and Image Representation - [Introduction and Mandrill Challenge](https://github.com/cs-uob/COMS30030/tree/main/Lab1-Intro-MandrillChallenge)
+- Week 2 - Convolution and Image Filtering -  [Numberplate Challenge](https://github.com/cs-uob/COMS30030/tree/main/Lab2-Number-Plate-Challenge)
+- Week 3 - Edge and Hough Transform -
+- Week 4 - Real-time Object Detection - 
 - Week 5 - Stereo I
 - Week 7 - Stereo II
 
