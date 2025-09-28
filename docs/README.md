@@ -60,7 +60,7 @@ The lab sessions are designed to prepare you for undertaking the assignment in w
 
 ## Labs:
 - Week 1 - OpenCV Intro and Image Representation [Introduction and Mandrill Challenge](https://github.com/cs-uob/COMS30030/tree/main/Lab1-Intro-MandrillChallenge)
-- Week 2 - Convolution and Image Filtering
+- Week 2 - Convolution and Image Filtering [Numberplate Challenge](https://github.com/cs-uob/COMS30030/tree/main/Lab2-Number-Plate-Challenge)
 - Week 3 - Edge and Hough Transform
 - Week 4 - Real-time Object Detection
 - Week 5 - Stereo I
