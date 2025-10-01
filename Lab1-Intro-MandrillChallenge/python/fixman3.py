@@ -15,10 +15,5 @@ height, width, colour = image.shape
 
 gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
 
-for i in range(height):
-    for j in range(width):
-        for k in range(3):
-            image[i,j,k] = 255 - image[i,j,k]
-
 # save image to file
 cv2.imwrite("python/fixman3.jpg", gray)
