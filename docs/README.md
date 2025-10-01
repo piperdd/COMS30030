@@ -95,6 +95,7 @@ All lecture recordings eventually appear on Blackboard a few hours after the eve
 #### Week 2: 29/09/2025
 
   | ------- | ------- |     
-  | MM03. Fourier Analysis| [pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/MM03-Fourier.pdf) |
+  | MM03. Fourier Analysis | [pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/MM03-Fourier.pdf) |
+  | MM03. Edges & Shapes | [pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/MM04-EdgesShapes.pdf) |
   | Problem Sheet 02 (Self/Group study) | [pdf](https://github.com/cs-uob/COMS30030/tree/main/ProblemSheets/ProblemSheet-IPCV-MM02.pdf) |
-  | Problem Sheet 02 (Solutions) | [pdf]  |
+  | Problem Sheet 02 (Solutions) | [pdf](https://github.com/cs-uob/COMS30030/tree/main/ProblemSheets/ProblemSheet-IPCV-MM02-Solutions.pdf)  |
