@@ -27,15 +27,20 @@ args = parser.parse_args()
 
 # initial long exposure image
 longexposureimg = 0
-
+n = 0
 # read each image in the folder
+
 for file in glob.glob(os.path.join(args.dirname, "*." + args.extname)):
 	# Read image from file
-	image = cv2.imread(file, 1)
+	image = cv2.imread(file, 1).astype(np.float32)
+	# print(image.shape)
+	longexposureimg += image
+	n += 1
+longexposureimg /= n
 
 
 # save image
-cv2.imwrite( "longexposureimg.jpg", longexposureimg );
+cv2.imwrite( "output/longexposureimg.jpg", longexposureimg )
 
 
 
