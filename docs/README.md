@@ -105,3 +105,4 @@ All lecture recordings eventually appear on Blackboard a few hours after the eve
   | ------- | ------- |  
   | Problem Sheet 03 (Self/Group study) | [pdf](https://github.com/cs-uob/COMS30030/tree/main/ProblemSheets/ProblemSheet-IPCV-MM02.pdf) |
   | Problem Sheet 03 (Solutions) | [pdf]  |
+  | MM05. Segmentation | [pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/MM05-Segmentation.pdf) |
