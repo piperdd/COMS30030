@@ -87,15 +87,23 @@ All lecture recordings eventually appear on Blackboard a few hours after the eve
 #### Week 1: 22/09/2025
 
   | ------- | ------- |     
-  | MM01. Introduction, Image Acquisition | [pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/MM01-Intro-Acquisition.pdf) |
-  | MM02. Image Filtering | [pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/MM02-Filtering.pdf) |
-  | Problem Sheet 01 (Self/Group study) | [pdf](https://github.com/cs-uob/COMS30030/tree/main/ProblemSheets/ProblemSheet-IPCV-MM01.pdf) |
-  | Problem Sheet 01 (Solutions) | [pdf](https://github.com/cs-uob/COMS30030/tree/main/ProblemSheets/ProblemSheet-IPCV-MM01-Solutions.pdf)  |
+  | MM01. Introduction, Image Acquisition | [pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/MM01-Intro-Acquisition.pdf) | -- |
+  | MM02. Image Filtering | [pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/MM02-Filtering.pdf) |  [online play](https://setosa.io/ev/image-kernels/)|
+  | Problem Sheet 01 (Self/Group study) | [pdf](https://github.com/cs-uob/COMS30030/tree/main/ProblemSheets/ProblemSheet-IPCV-MM01.pdf) | -- |
+  | Problem Sheet 01 (Solutions) | [pdf](https://github.com/cs-uob/COMS30030/tree/main/ProblemSheets/ProblemSheet-IPCV-MM01-Solutions.pdf)  | -- |
 
 #### Week 2: 29/09/2025
 
-  | ------- | ------- |     
-  | MM03. Fourier Analysis | [pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/MM03-Fourier.pdf) |
-  | MM04. Edges & Shapes | [pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/MM04-EdgesShapes.pdf) |
-  | Problem Sheet 02 (Self/Group study) | [pdf](https://github.com/cs-uob/COMS30030/tree/main/ProblemSheets/ProblemSheet-IPCV-MM02.pdf) |
-  | Problem Sheet 02 (Solutions) | [pdf](https://github.com/cs-uob/COMS30030/tree/main/ProblemSheets/ProblemSheet-IPCV-MM02-Solutions.pdf)  |
+  | ------- | ------- |   ------ |  
+  | MM03. Fourier Analysis | [pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/MM03-Fourier.pdf) | [online play](https://bigwww.epfl.ch/demo/ip/demos/FFT-filtering/) |
+  | Problem Sheet 02 (Self/Group study) | [pdf](https://github.com/cs-uob/COMS30030/tree/main/ProblemSheets/ProblemSheet-IPCV-MM02.pdf) | -- |
+  | Problem Sheet 02 (Solutions) | [pdf](https://github.com/cs-uob/COMS30030/tree/main/ProblemSheets/ProblemSheet-IPCV-MM02-Solutions.pdf)  | -- |
+  | MM04. Edges & Shapes | [pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/MM04-EdgesShapes.pdf) | [online play](https://www.aber.ac.uk/~dcswww/Dept/Teaching/CourseNotes/current/CS34110/hough.html)  |
+
+#### Week 3: 06/10/2025
+
+  | ------- | ------- | ------ |
+  | Problem Sheet 03 (Self/Group study) | [pdf](https://github.com/cs-uob/COMS30030/tree/main/ProblemSheets/ProblemSheet-IPCV-MM02.pdf) |  -- |
+  | Problem Sheet 03 (Solutions) | [pdf]  | -- |
+  | MM05. Segmentation | [pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/MM05-Segmentation.pdf) | [online play](https://www.naftaliharris.com/blog/visualizing-k-means-clustering/) |
+  | MM06. Object Detection I | [pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/MM06-ObjectDetection.pdf) | -- |
