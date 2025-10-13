@@ -106,11 +106,10 @@ All lecture recordings eventually appear on Blackboard a few hours after the eve
   | Problem Sheet 03 (Self/Group study) | [pdf](https://github.com/cs-uob/COMS30030/tree/main/ProblemSheets/ProblemSheet-IPCV-MM03.pdf) |  -- |
   | Problem Sheet 03 (Solutions) | [pdf](https://github.com/cs-uob/COMS30030/tree/main/ProblemSheets/ProblemSheet-IPCV-MM03-Solutions.pdf)| -- |
   | MM05. Segmentation | [pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/MM05-Segmentation.pdf) | [online play](https://www.naftaliharris.com/blog/visualizing-k-means-clustering/) |
-  | MM06. Object Detection I | [pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/MM06-ObjectDetection.pdf) | -- |
+  | MM06. Object Detection  | [pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/MM06-ObjectDetection.pdf) | -- |
 
 #### Week 4: 13/10/2025
 
   | ------- | ------- | ------ |
   | MM07. Viola-Jones Face Detection | [pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/MM07-ViolaJones.pdf) | [online play](https://demo.ipol.im/demo/104/) |
   | Problem Sheet 04 (Self/Group study) | [pdf](https://github.com/cs-uob/COMS30030/tree/main/ProblemSheets/ProblemSheet-IPCV-MM04.pdf) |  -- |
-  
