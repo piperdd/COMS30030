@@ -61,8 +61,8 @@ The lab sessions are designed to prepare you for undertaking the assignment in w
 ## Labs:
 - Week 1 - OpenCV Intro and Image Representation - [Introduction and Mandrill Challenge](https://github.com/cs-uob/COMS30030/tree/main/Lab1-Intro-MandrillChallenge)
 - Week 2 - Convolution and Image Filtering -  [Numberplate Challenge](https://github.com/cs-uob/COMS30030/tree/main/Lab2-Number-Plate-Challenge)
-- Week 3 - Edge and Hough Transform -
-- Week 4 - Real-time Object Detection -
+- Week 3 - Edge and Hough Transform - [Coin Counter Challenge](https://github.com/cs-uob/COMS30030/tree/main/Lab3-Coin-Counter-Challenge)
+- Week 4 - Real-time Object Detection - [Face Detection Challenge](https://github.com/cs-uob/COMS30030/tree/main/Lab4-Face-Detection)
 - Week 5 - Stereo I
 - Week 7 - Stereo II
 
@@ -103,7 +103,14 @@ All lecture recordings eventually appear on Blackboard a few hours after the eve
 #### Week 3: 06/10/2025
 
   | ------- | ------- | ------ |
-  | Problem Sheet 03 (Self/Group study) | [pdf](https://github.com/cs-uob/COMS30030/tree/main/ProblemSheets/ProblemSheet-IPCV-MM02.pdf) |  -- |
-  | Problem Sheet 03 (Solutions) | [pdf]  | -- |
+  | Problem Sheet 03 (Self/Group study) | [pdf](https://github.com/cs-uob/COMS30030/tree/main/ProblemSheets/ProblemSheet-IPCV-MM03.pdf) |  -- |
+  | Problem Sheet 03 (Solutions) | [pdf](https://github.com/cs-uob/COMS30030/tree/main/ProblemSheets/ProblemSheet-IPCV-MM03-Solutions.pdf)| -- |
   | MM05. Segmentation | [pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/MM05-Segmentation.pdf) | [online play](https://www.naftaliharris.com/blog/visualizing-k-means-clustering/) |
-  | MM06. Object Detection I | [pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/MM06-ObjectDetection.pdf) | -- |
+  | MM06. Object Detection  | [pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/MM06-ObjectDetection.pdf) | -- |
+
+#### Week 4: 13/10/2025
+
+  | ------- | ------- | ------ |
+  | MM07. Viola-Jones Face Detection | [pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/MM07-ViolaJones.pdf) | [online play](https://demo.ipol.im/demo/104/) |
+  | Problem Sheet 04 (Self/Group study) | [pdf](https://github.com/cs-uob/COMS30030/tree/main/ProblemSheets/ProblemSheet-IPCV-MM04.pdf) |  
+  | AC01. Stereo Lecture 1 | [pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/COMS30030_2526_stereo_lec1_6up.pdf) | -- |
