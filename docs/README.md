@@ -63,7 +63,7 @@ The lab sessions are designed to prepare you for undertaking the assignment in w
 - Week 2 - Convolution and Image Filtering -  [Numberplate Challenge](https://github.com/cs-uob/COMS30030/tree/main/Lab2-Number-Plate-Challenge)
 - Week 3 - Edge and Hough Transform - [Coin Counter Challenge](https://github.com/cs-uob/COMS30030/tree/main/Lab3-Coin-Counter-Challenge)
 - Week 4 - Real-time Object Detection - [Face Detection Challenge](https://github.com/cs-uob/COMS30030/tree/main/Lab4-Face-Detection)
-- Week 5 - Stereo I
+- Week 5 - Stereo I - [Stereo Lab I](https://github.com/cs-uob/COMS30030/tree/main/Lab5-3D-from-stereo-main)
 - Week 7 - Stereo II
 
 
@@ -113,9 +113,10 @@ All lecture recordings eventually appear on Blackboard a few hours after the eve
   | ------- | ------- | ------ |
   | MM07. Viola-Jones Face Detection | [pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/MM07-ViolaJones.pdf) | [online play](https://demo.ipol.im/demo/104/) |
   | Problem Sheet 04 (Self/Group study) | [pdf](https://github.com/cs-uob/COMS30030/tree/main/ProblemSheets/ProblemSheet-IPCV-MM04.pdf) |  
-  | AC01. Stereo Lecture 1 | [pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/COMS30030_2526_stereo_lec1_6up.pdf) | -- |
+  | AC01. Stereo Lecture 1 | [pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/COMS30030_2526_stereo_lec1.pdf) | [6up pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/COMS30030_2526_stereo_lec1_6up.pdf)| -- |
 
 #### Week 5: 20/10/2025
 
   | ------- | ------- | ------ |
-  | AC02. Stereo Lecture 2 | [pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/COMS30030_2526_stereo_lec2_6up.pdf) | -- |
+  | AC02. Stereo Lecture 2 | [pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/COMS30030_2526_stereo_lec2.pdf) | [6up pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/COMS30030_2526_stereo_lec2_6up.pdf)| 
+  | AC03. Stereo Lecture 3 | [pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/COMS30030_2526_stereo_lec3.pdf) | [6up pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/COMS30030_2526_stereo_lec3_6up.pdf)| -- |
