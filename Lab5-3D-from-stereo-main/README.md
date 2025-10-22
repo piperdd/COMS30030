@@ -1,5 +1,5 @@
 # Lab5-3D-from-stereo
-Python code and lab sheet for lab class 5 on stereo. Details on how to run the code are below and the lab tasks can be found in the lab sheet IPCV-Stereo-Lab1-24-25.pdf.
+Python code and lab sheet for lab class 5 on stereo. Details on how to run the code are below and the lab tasks can be found in the lab sheet IPCV-Stereo-Lab1-25-26.pdf.
 
 If you are on a Linux system like Ubuntu:
 
