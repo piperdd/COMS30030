@@ -48,17 +48,17 @@ The lecture schedule is as follows:
 
 ---
 
-## MAJOR option
+## MAJOR option assignment:
 
-Major option COMS30087 materials
+The major option COMS30087 assignment will consist of two parts, one based on Majid's material in weeks 1-4 and the other on Andrew's materials in weeks 4-8. In preparation for the assignment, laboratory sessions are provided with worksheets and TA help. The work sheets will prepare you for the assignment. 
 
-Note that the laboratory sessions for the major option COMS30087 are timetabled to take place in weeks 1-5 and 7-8 on Thursdays at 15:00-17:00 in Queens Building 1.80. The major option assignment will then be done during weeks 9-11.
+The laboratory sessions for the major option COMS30087 are timetabled to take place in weeks 1-5 and 7-8 on Thursdays at 15:00-17:00 in Queens Building 1.80. The major option assignment will then be done during weeks 9-11.
 
 There are six 2-hour laboratory sessions. Each consists of a task sheet which you are expected to complete during the session. help will be available in the form of 6 post-graduate Teaching Assistants (TAs), all of whom are completing a PhD in image processing or computer vision.
 
-The lab sessions are designed to prepare you for undertaking the assignment in weeks 9-11. You are therefore expected to attend every session, complete the tasks on the lab sheet and make full use of the help available. Solutions to lab sheets will be released following each session (when applicable). The TAs have bveen instructed to be available at all times during each session to offer help and advice. However, it is important that before asking for help you make a serious attempt to understand and complete a task. If you need help, then try to ask specific questions, whether that relates to the theory behind the task or how to implement something. If you find that you are not getting sufficient help from the TAs, then please contact the unit director.
+The lab sessions are designed to prepare you for undertaking the assignment in weeks 9-11. You are therefore expected to attend every session, complete the tasks on the lab sheet and make full use of the help available. Solutions to lab sheets will be released following each session (when applicable). The TAs have been instructed to be available at all times during each session to offer help and advice. However, it is important that before asking for help you make a serious attempt to understand and complete a task. If you need help, then try to ask specific questions, whether that relates to the theory behind the task or how to implement something. If you find that you are not getting sufficient help from the TAs, then please contact the unit director.
 
-## Labs:
+## Lab Schedule:
 - Week 1 - OpenCV Intro and Image Representation - [Introduction and Mandrill Challenge](https://github.com/cs-uob/COMS30030/tree/main/Lab1-Intro-MandrillChallenge)
 - Week 2 - Convolution and Image Filtering -  [Numberplate Challenge](https://github.com/cs-uob/COMS30030/tree/main/Lab2-Number-Plate-Challenge)
 - Week 3 - Edge and Hough Transform - [Coin Counter Challenge](https://github.com/cs-uob/COMS30030/tree/main/Lab3-Coin-Counter-Challenge)
@@ -66,16 +66,16 @@ The lab sessions are designed to prepare you for undertaking the assignment in w
 - Week 5 - Stereo I - [Stereo Lab I](https://github.com/cs-uob/COMS30030/tree/main/Lab5-3D-from-stereo-main)
 - Week 7 - Stereo II
 
-
-
 ---
 
-## MINOR option
-
-Minor option COMS30081 materials
-
-## Exam info:
-* The exam is closed-book (so no additional materials are allowed).
+## Exam information:
+* Minor option COMS30081 will be assessed by a single 1 hour exam consisting of 10 multiple choice questions.
+* Major option COMS30087 will be assessed by the above described assignment and a 50 minute mid-term exam in Week 8 consisting of 10 multiple choice questions.
+* For preparations for both of the above exams, below are previous exam papers from 2023 and 2024. The formats are different, but the questions are indicative of the type of questions to expect in both the minor and mid-term exams. Note that both exams will be based on all material covered in all the lectures.
+* * [2023 exam questions](https://github.com/cs-uob/COMS30030/tree/main/PastExams/IPCVexamJan23.pdf)
+* * [2023 exam questions](https://github.com/cs-uob/COMS30030/tree/main/PastExams/IPCVexamJan23ans.pdf)
+* * [2024 exam questions](https://github.com/cs-uob/COMS30030/tree/main/PastExams/IPCVexamJan24.pdf)
+* * [2024 exam questions](https://github.com/cs-uob/COMS30030/tree/main/PastExams/IPCVexamJan24ans.pdf)
 
 ---
 
