@@ -73,9 +73,9 @@ The lab sessions are designed to prepare you for undertaking the assignment in w
 * Major option COMS30087 will be assessed by the above described assignment and a 50 minute mid-term exam in Week 8 consisting of 10 multiple choice questions.
 * For preparations for both of the above exams, below are previous exam papers from 2023 and 2024. The formats are different, but the questions are indicative of the type of questions to expect in both the minor and mid-term exams. Note that both exams will be based on all material covered in all the lectures.
 * * [2023 exam questions](https://github.com/cs-uob/COMS30030/tree/main/PastExams/IPCVexamJan23.pdf)
-* * [2023 exam questions](https://github.com/cs-uob/COMS30030/tree/main/PastExams/IPCVexamJan23ans.pdf)
+* * [2023 exam solutions](https://github.com/cs-uob/COMS30030/tree/main/PastExams/IPCVexamJan23ans.pdf)
 * * [2024 exam questions](https://github.com/cs-uob/COMS30030/tree/main/PastExams/IPCVexamJan24.pdf)
-* * [2024 exam questions](https://github.com/cs-uob/COMS30030/tree/main/PastExams/IPCVexamJan24ans.pdf)
+* * [2024 exam solutions](https://github.com/cs-uob/COMS30030/tree/main/PastExams/IPCVexamJan24ans.pdf)
 
 ---
 
