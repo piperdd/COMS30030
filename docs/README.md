@@ -123,3 +123,11 @@ All lecture recordings eventually appear on Blackboard a few hours after the eve
   | AC03. Stereo Lecture 3 | [pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/COMS30030_2526_stereo_lec3.pdf) | [6up pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/COMS30030_2526_stereo_lec3_6up.pdf)|
   | Stereo Problem Sheet | [pdf](https://github.com/cs-uob/COMS30030/tree/main/ProblemSheets/COMS30030_2526_stereo_problem_sheet.pdf) |
   | Stereo Problem Sheet Solutions | [pdf](https://github.com/cs-uob/COMS30030/tree/main/ProblemSheets/COMS30030_2526_stereo_problem_sheet_solns.pdf) |-- |
+
+#### Week 7: 03/11/2025
+
+  | ------- | ------- | ------ |
+  | AC04. Stereo Lecture 4 | [pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/COMS30030_2526_stereo_lec4.pdf) | [6up pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/COMS30030_2526_stereo_lec4_6up.pdf)| -- |
+
+
+
