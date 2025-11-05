@@ -127,7 +127,14 @@ All lecture recordings eventually appear on Blackboard a few hours after the eve
 #### Week 7: 03/11/2025
 
   | ------- | ------- | ------ |
-  | AC04. Stereo Lecture 4 | [pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/COMS30030_2526_stereo_lec4.pdf) | [6up pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/COMS30030_2526_stereo_lec4_6up.pdf)| -- |
+  | AC04. Stereo Lecture 4 | [pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/COMS30030_2526_stereo_lec4.pdf) | [6up pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/COMS30030_2526_stereo_lec4_6up.pdf)|
+  | AC05. Motion Lecture 1 | [pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/COMS30030_2526_motion_lec1.pdf) | [6up pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/COMS30030_2526_motion_lec1_6up.pdf)| -- |
+
+#### Week 8: 10/11/2025
+
+  | ------- | ------- | ------ |
+  | AC06. Motion Lecture 2 | [pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/COMS30030_2526_motion_lec2.pdf) | [6up pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/COMS30030_2526_motion_lec2_6up.pdf)|-- |
+
 
 
 
