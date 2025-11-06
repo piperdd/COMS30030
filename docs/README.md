@@ -61,7 +61,7 @@ The lab sessions are designed to prepare you for undertaking the assignment in w
 ## Lab Schedule:
 - Week 1 - OpenCV Intro and Image Representation - [Introduction and Mandrill Challenge](https://github.com/cs-uob/COMS30030/tree/main/Lab1-Intro-MandrillChallenge) [(solutions)](https://github.com/cs-uob/COMS30030/tree/main/LabSolutions)
 - Week 2 - Convolution and Image Filtering -  [Numberplate Challenge](https://github.com/cs-uob/COMS30030/tree/main/Lab2-Number-Plate-Challenge) [(solutions)](https://github.com/cs-uob/COMS30030/tree/main/LabSolutions)
-- Week 3 - Edge and Hough Transform - [Coin Counter Challenge](https://github.com/cs-uob/COMS30030/tree/main/Lab3-Coin-Counter-Challenge) [(solutions)](https://github.com/cs-uob/COMS30030/tree/main/LabSolutions)
+- Week 3 - Edge and Hough Transform - [Coin Counter Challenge](https://github.com/cs-uob/COMS30030/tree/main/Lab3-Coin-Counter-Challenge)
 - Week 4 - Real-time Object Detection - [Face Detection Challenge](https://github.com/cs-uob/COMS30030/tree/main/Lab4-Face-Detection)
 - Week 5 - Stereo I - [Stereo Lab I](https://github.com/cs-uob/COMS30030/tree/main/Lab5-3D-from-stereo-main) [(solutions)](https://github.com/cs-uob/COMS30030/tree/main/LabSolutions)
 - Week 7 - Stereo II - [Stereo Lab II](https://github.com/cs-uob/COMS30030/tree/main/Lab6-3D-from-stereo-II)
