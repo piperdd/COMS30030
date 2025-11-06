@@ -64,7 +64,7 @@ The lab sessions are designed to prepare you for undertaking the assignment in w
 - Week 3 - Edge and Hough Transform - [Coin Counter Challenge](https://github.com/cs-uob/COMS30030/tree/main/Lab3-Coin-Counter-Challenge)
 - Week 4 - Real-time Object Detection - [Face Detection Challenge](https://github.com/cs-uob/COMS30030/tree/main/Lab4-Face-Detection)
 - Week 5 - Stereo I - [Stereo Lab I](https://github.com/cs-uob/COMS30030/tree/main/Lab5-3D-from-stereo-main)
-- Week 7 - Stereo II
+- Week 7 - Stereo II - [Stereo Lab II](https://github.com/cs-uob/COMS30030/tree/main/Lab6-3D-from-stereo-II)
 
 ---
 
@@ -127,7 +127,14 @@ All lecture recordings eventually appear on Blackboard a few hours after the eve
 #### Week 7: 03/11/2025
 
   | ------- | ------- | ------ |
-  | AC04. Stereo Lecture 4 | [pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/COMS30030_2526_stereo_lec4.pdf) | [6up pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/COMS30030_2526_stereo_lec4_6up.pdf)| -- |
+  | AC04. Stereo Lecture 4 | [pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/COMS30030_2526_stereo_lec4.pdf) | [6up pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/COMS30030_2526_stereo_lec4_6up.pdf)|
+  | AC05. Motion Lecture 1 | [pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/COMS30030_2526_motion_lec1.pdf) | [6up pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/COMS30030_2526_motion_lec1_6up.pdf)| -- |
+
+#### Week 8: 10/11/2025
+
+  | ------- | ------- | ------ |
+  | AC06. Motion Lecture 2 | [pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/COMS30030_2526_motion_lec2.pdf) | [6up pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/COMS30030_2526_motion_lec2_6up.pdf)|-- |
+
 
 
 
