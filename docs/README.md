@@ -50,7 +50,7 @@ The lecture schedule is as follows:
 
 ## MAJOR option assignment:
 
-The major option COMS30087 assignment will consist of two parts, one based on Majid's material in weeks 1-4 and the other on Andrew's materials in weeks 4-8. In preparation for the assignment, laboratory sessions are provided with worksheets and TA help. The work sheets will prepare you for the assignment. 
+The major option COMS30087 assignment will consist of two parts, one based on Majid's material in weeks 1-4 and the other on Andrew's materials in weeks 4-8. In preparation for the assignment, laboratory sessions are provided with worksheets and TA help. The work sheets will prepare you for the assignment.
 
 The laboratory sessions for the major option COMS30087 are timetabled to take place in weeks 1-5 and 7-8 on Thursdays at 15:00-17:00 in Queens Building 1.80. The major option assignment will then be done during weeks 9-11.
 
@@ -59,11 +59,11 @@ There are six 2-hour laboratory sessions. Each consists of a task sheet which yo
 The lab sessions are designed to prepare you for undertaking the assignment in weeks 9-11. You are therefore expected to attend every session, complete the tasks on the lab sheet and make full use of the help available. Solutions to lab sheets will be released following each session (when applicable). The TAs have been instructed to be available at all times during each session to offer help and advice. However, it is important that before asking for help you make a serious attempt to understand and complete a task. If you need help, then try to ask specific questions, whether that relates to the theory behind the task or how to implement something. If you find that you are not getting sufficient help from the TAs, then please contact the unit director.
 
 ## Lab Schedule:
-- Week 1 - OpenCV Intro and Image Representation - [Introduction and Mandrill Challenge](https://github.com/cs-uob/COMS30030/tree/main/Lab1-Intro-MandrillChallenge)
-- Week 2 - Convolution and Image Filtering -  [Numberplate Challenge](https://github.com/cs-uob/COMS30030/tree/main/Lab2-Number-Plate-Challenge)
-- Week 3 - Edge and Hough Transform - [Coin Counter Challenge](https://github.com/cs-uob/COMS30030/tree/main/Lab3-Coin-Counter-Challenge)
-- Week 4 - Real-time Object Detection - [Face Detection Challenge](https://github.com/cs-uob/COMS30030/tree/main/Lab4-Face-Detection)
-- Week 5 - Stereo I - [Stereo Lab I](https://github.com/cs-uob/COMS30030/tree/main/Lab5-3D-from-stereo-main)
+- Week 1 - OpenCV Intro and Image Representation - [Introduction and Mandrill Challenge](https://github.com/cs-uob/COMS30030/tree/main/Lab1-Intro-MandrillChallenge) [solutions](https://github.com/cs-uob/COMS30030/tree/main/LabSolutions)
+- Week 2 - Convolution and Image Filtering -  [Numberplate Challenge](https://github.com/cs-uob/COMS30030/tree/main/Lab2-Number-Plate-Challenge) [solutions](https://github.com/cs-uob/COMS30030/tree/main/LabSolutions)
+- Week 3 - Edge and Hough Transform - [Coin Counter Challenge](https://github.com/cs-uob/COMS30030/tree/main/Lab3-Coin-Counter-Challenge) [solutions](https://github.com/cs-uob/COMS30030/tree/main/LabSolutions)
+- Week 4 - Real-time Object Detection - [Face Detection Challenge](https://github.com/cs-uob/COMS30030/tree/main/Lab4-Face-Detection) 
+- Week 5 - Stereo I - [Stereo Lab I](https://github.com/cs-uob/COMS30030/tree/main/Lab5-3D-from-stereo-main) [solutions](https://github.com/cs-uob/COMS30030/tree/main/LabSolutions)
 - Week 7 - Stereo II - [Stereo Lab II](https://github.com/cs-uob/COMS30030/tree/main/Lab6-3D-from-stereo-II)
 
 ---
@@ -114,12 +114,12 @@ All lecture recordings eventually appear on Blackboard a few hours after the eve
   | MM07. Viola-Jones Face Detection | [pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/MM07-ViolaJones.pdf) | [online play](https://demo.ipol.im/demo/104/) |
   | Problem Sheet 04 (Self/Group study) | [pdf](https://github.com/cs-uob/COMS30030/tree/main/ProblemSheets/ProblemSheet-IPCV-MM04.pdf) | -- |
   | Problem Sheet 04 (Solutions) | [pdf](https://github.com/cs-uob/COMS30030/tree/main/ProblemSheets/ProblemSheet-IPCV-MM04-Solutions.pdf) |  -- |
-  | AC01. Stereo Lecture 1 | [pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/COMS30030_2526_stereo_lec1.pdf) | [6up pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/COMS30030_2526_stereo_lec1_6up.pdf)| 
+  | AC01. Stereo Lecture 1 | [pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/COMS30030_2526_stereo_lec1.pdf) | [6up pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/COMS30030_2526_stereo_lec1_6up.pdf)|
 
 #### Week 5: 20/10/2025
 
   | ------- | ------- | ------ |
-  | AC02. Stereo Lecture 2 | [pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/COMS30030_2526_stereo_lec2.pdf) | [6up pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/COMS30030_2526_stereo_lec2_6up.pdf)| 
+  | AC02. Stereo Lecture 2 | [pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/COMS30030_2526_stereo_lec2.pdf) | [6up pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/COMS30030_2526_stereo_lec2_6up.pdf)|
   | AC03. Stereo Lecture 3 | [pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/COMS30030_2526_stereo_lec3.pdf) | [6up pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/COMS30030_2526_stereo_lec3_6up.pdf)|
   | Stereo Problem Sheet | [pdf](https://github.com/cs-uob/COMS30030/tree/main/ProblemSheets/COMS30030_2526_stereo_problem_sheet.pdf) |
   | Stereo Problem Sheet Solutions | [pdf](https://github.com/cs-uob/COMS30030/tree/main/ProblemSheets/COMS30030_2526_stereo_problem_sheet_solns.pdf) |-- |
@@ -134,7 +134,3 @@ All lecture recordings eventually appear on Blackboard a few hours after the eve
 
   | ------- | ------- | ------ |
   | AC06. Motion Lecture 2 | [pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/COMS30030_2526_motion_lec2.pdf) | [6up pdf](https://github.com/cs-uob/COMS30030/tree/main/Slides/COMS30030_2526_motion_lec2_6up.pdf)|-- |
-
-
-
-
