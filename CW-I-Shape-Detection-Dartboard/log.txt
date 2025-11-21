@@ -1,0 +1,7 @@
+opencv_createsamples -img dart.bmp -vec dart.vec  -w 20 -h 20 -num 3000 -maxidev 80 -maxxangle 1.1 -maxyangle 0.6 -maxzangle 0.2
+opencv_traincascade -data Dartboardcascade -vec dart.vec -bg negatives.dat -numPos 2000 -numNeg 1000 -numStages 3 -maxDepth 1 -w 20 -h 20 -minHitRate 0.999  -maxFalseAlarmRate 0.05 -mode ALL
+darts = model.detectMultiScale(frame_gray, scaleFactor=1.1, minNeighbors=3, flags=0, minSize=(20,20), maxSize=(210,210))
+combined F1: 0.4090909090909091
+
+opencv_createsamples -img dart.bmp -vec dart.vec  -w 20 -h 20 -num 3000 -maxidev 80 -maxxangle 1.2 -maxyangle 0.6 -maxzangle 0.2
+combined F1: 0.2711864406779661
