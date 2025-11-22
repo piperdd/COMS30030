@@ -107,6 +107,18 @@ if __name__ == '__main__':
     Write your code here to define another sphere
     in world coordinate frame
     '''
+
+    name_list.append('sphere_a')
+    sph_mesh=o3d.geometry.TriangleMesh.create_sphere(radius=1)
+    mesh_list.append(sph_mesh)
+    H_list.append(np.array(
+                    [[1, 0, 0, 3],
+                     [0, 1, 0, 1],
+                     [0, 0, 1, -2],
+                     [0, 0, 0, 1]]
+            ))
+    RGB_list.append([0., 0.5, 0.5])
+
     #########################################
 
 
@@ -169,7 +181,7 @@ if __name__ == '__main__':
     H1_wc = np.matmul(H1_1, H1_0)
     render_list = [(H0_wc, 'view0.png', 'depth0.png'), 
                    (H1_wc, 'view1.png', 'depth1.png')]
-
+    # print(H1_1[:,3])
 
     ###################################################
     '''
@@ -197,6 +209,41 @@ if __name__ == '__main__':
     Write your code here to define the sphere
     in the camera coordinate frame
     '''
+    radius = 1
+    name_list.append('sphere_center')
+    sph_mesh=o3d.geometry.TriangleMesh.create_sphere(radius=radius)
+    mesh_list.append(sph_mesh)
+    
+
+    R_wc = H0_wc[:3, :3]
+    T_wc = H0_wc[:3, 3]
+
+    cameraCentre_wc = -R_wc.T @ T_wc
+    print(cameraCentre_wc)
+
+    principalAxisVector_wc = R_wc.T @ np.array([0, 0, 1])
+
+    D = 17.0
+    x = cameraCentre_wc[0]
+    y = cameraCentre_wc[1]
+    z = cameraCentre_wc[2]
+    D = 20 - radius * 20 / y
+    print(y,z)
+
+    sphereCenter_wc = cameraCentre_wc + D * principalAxisVector_wc
+
+    # Create transform matrix
+    H = np.eye(4)
+    H[:3, 3] = sphereCenter_wc
+########################################################################3
+    rgb = [0., 0.5, 0.5]
+    sph_mesh.paint_uniform_color(rgb)
+
+    sph_mesh.vertices = o3d.utility.Vector3dVector(
+        transform_points(np.asarray(sph_mesh.vertices),H)
+    )
+    sph_mesh.compute_vertex_normals()
+    obj_meshes.append(sph_mesh)
     ############################################################
 
 

@@ -261,6 +261,20 @@ if __name__ == '__main__':
 
     Write your code here
     '''
+    gray = cv2.cvtColor( img1, cv2.COLOR_BGR2GRAY )
+    # blurred = cv2.medianBlur(gray, 13)
+    blurred = cv2.GaussianBlur(gray, (9,9),1)
+    # circles = cv2.HoughCircles(blurred, cv2.HOUGH_GRADIENT, dp=2, minDist=10,minRadius=15, maxRadius=100,param1=200, param2=60)
+    circles = cv2.HoughCircles(blurred, cv2.HOUGH_GRADIENT, dp=1.2, minDist=15,minRadius=15, maxRadius=50,param1=100, param2=25)
+    circles = np.uint16(np.around(circles))
+
+    # print(len(circles))
+    for circle in circles[0,:]:
+        print(circle)
+        x, y, r = circle
+        cv2.circle(img1, (x,y), r, (0,0,255), 2)
+    cv2.imwrite("view1.png", img1)
+
     ###################################
 
 
